@@ -32,6 +32,10 @@
 ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
 ![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
 
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yash170603&color=blue)
+
+
 ## 🌱 Currently Learning
 - CNCF Architecture
 - Golang 
