@@ -21,7 +21,7 @@ Worked primarly on P0 order-payment service using Golang, and maintained recurri
 
 ### Backend
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
