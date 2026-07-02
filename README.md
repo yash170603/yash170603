@@ -1,7 +1,8 @@
 # Hello, I'm yash  👋
 
-## 🎓 Education
-- BTech in Information Technology (Final Year)
+Worked as an year long intern from AUG 2025 to JUNE 2026 (that's why profile might seem inactive)  at Razorpay (India based Fintech).
+
+Worked primarly on P0 order-payment service using Golang, and maintained recurring payment platform (subscriptions) in PHP. 
 
 ## 💻 Tech Stack
 
@@ -19,6 +20,8 @@
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
 
 ### Backend
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
@@ -39,10 +42,6 @@
 
 
 
-## 🌱 Currently Learning
-- CNCF Architecture
-- Golang 
-- Exploring/Contributing to Open Source
 
 
 ⭐️ From (https://github.com/yash170603)
