@@ -2,30 +2,10 @@
 
 Backend engineer, mostly **Go**. CS grad, 2026.
 
-I spent a year as a Software Engineer Intern on the **Backend Platform** team at [Razorpay](https://razorpay.com) (Aug 2025 – June 2026) — which is why this profile looks quiet for that stretch. Almost everything I shipped in that period lives in private repos.
+currently at @SliceBank, Ex-Keploy,Ex-Razorpay,Ex-StackGuard!
 
----
+Open to swe roles!
 
-## 🛠 What I worked on at Razorpay
-
-**Watchtower — audit & observability platform**
-Redesigned Razorpay's internal audit platform with high-throughput HTTP and Kafka ingestion pipelines, centralizing infrastructure events across deployments, dynamic configs, WAF policies, and A/B rollouts.
-
-**MCP server for on-call engineers**
-Built an MCP server exposing 10+ operational tools backed by OpenAI APIs, letting on-call engineers query production audit logs in natural language. Cut change-triage from ~25–30 minutes of manual frontend filtering down to 2–3 minutes per investigation.
-
-**23M+ production config migration**
-Moved 23M+ configurations (12M live, 11M test) off a legacy PHP monolith into microservice-owned datastores — Trino-based ETL, progressive read/write cutover, Grafana rollout dashboards. Zero data loss.
-
-**Recurring payments (subscriptions)**
-Engineered mandate/token reconciliation workflows with scheduler-driven validation and backward-compatible fallbacks, exposed 11 internal Basic Auth routes to the admin dashboard through the Edge/Kong Terraform layer with AuthZ enforcement, and took automated integration test coverage from **0 → 65** tests wired into CI.
-
-**Developer experience**
-Led adoption of Kubernetes DevStack environments and Helm charts, reducing local setup friction across multiple engineering teams.
-
-Before that — Full Stack Intern at **StackGuard** (May – July 2025): Go + PostgreSQL microservices with query tuning, Kafka event-driven inter-service communication using goroutines and channels, a GitHub App with OAuth and scoped permissions, and React dashboards with Zustand.
-
----
 
 ## 💻 Tech Stack
 
